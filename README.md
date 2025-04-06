@@ -32,7 +32,7 @@ cd CassetteChain
 cd gitstuf
 cd CassetteChain</pre>
 
-2. Add your Private Key in .env files
+2. Add your wallet Private Key in .env files
 
 3. Start the Backend
 <pre>cd backend 
