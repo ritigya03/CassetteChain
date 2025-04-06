@@ -24,7 +24,7 @@ Inspired by a personal moment, built with beginner-level Web3/backend knowledge 
 - 🎧 Use your own Spotify playlists
 - 🕵️ Secret message unlocks only after full playback
 
-##How to use this on your end
+## How to use this on your end
 
 1. Clone the Repository
 <pre>git clone https://github.com/ritigya03/CassetteChain 
