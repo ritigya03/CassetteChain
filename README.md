@@ -40,3 +40,6 @@ node index.js </pre>
 
 4. Start Frontend
 <pre>npm run dev</pre>
+
+## Linkedin Post with Demo Video
+[Visit Post](https://www.linkedin.com/posts/heeral-mandolia-1a68b1209_web3-cassettechain-nfts-activity-7314728292203253761-TJmx?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZuhegBZJRoGEQdvaMGQdeMYQO6_lwyhgU)
